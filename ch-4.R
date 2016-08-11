@@ -25,4 +25,6 @@ vals <- c(vals, vals)
 suits <- c("heart", "diamond", "club", "spade")
 cards <- expand.grid(value = vals, suits = suits)
 t <- table(cards)
-s
+
+
+## 4.4
